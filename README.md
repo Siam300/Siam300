@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siam Mahmud Khan</h1>
+<h1 align="center">Siam Mahmud Khan</h1>
 <h3 align="center">Learning learning learning learning and learning........</h3>
 
 <h3 align="left">Connect with me:</h3>
